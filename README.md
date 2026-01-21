@@ -31,6 +31,9 @@ Components:
 Topology:
 Attacker -> Switch -> DHCP Server + Clients
 
+![DHCP Starvation Topology](assets/work.png)
+
+
 Network Range: 192.168.10.0/24  
 DHCP Pool: 192.168.10.50 – 192.168.10.100
 

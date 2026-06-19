@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # DHCP Starvation Attack Simulation using GNS3
 
 ## 📌 Academic Project Overview
